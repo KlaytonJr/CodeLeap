@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    background-color: #DDD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    background-color: #fff;
+    width: 500px;
+    height: 220px;
+    padding: 25px;
+    text-align: start;
+}
+
+.box h3 {
+    font-size: 22px;
+}
+
+#btn {
+    width: 100%;
+    margin-left: 75%;
+    margin-top: 30px;
+}
+
+#btn a {
+    text-decoration: none;
+}
