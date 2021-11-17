@@ -1,3 +1,30 @@
+# CodeLeap Challenge
+## 🚀 Technologies
+
+### This project was developed with the followings technologies:
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+</ul>
+
+### Other technologies:
+
+<ul>
+  <li>Redux</li>
+</ul>
+
+### Developed abilities:
+- [X] Consuming API
+- [ ] CRUD (only read function) 
+- [ ] Redux with React
+
+## 💻 Project
+
+This project is a challenge by CodeLeap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
