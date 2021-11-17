@@ -1,0 +1,32 @@
+.bg-modal {
+    width: 100vw;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    display: flex;
+    justify-content: center;
+}
+
+.delete-confirmation {
+    position: fixed;
+    width: 661px;
+    height: 168px;
+    margin: 100px auto;
+    padding: 40px 40px;
+    box-sizing: border-box;
+
+    background: #FFFFFF;
+}
+
+.delete-btn {
+    position: relative;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: 0;
+    justify-content: space-between;
+}
